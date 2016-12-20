@@ -26,7 +26,6 @@ export default class Home extends React.Component {
          class="img-responsive img-circle center-block"
          style={imgStyle}/>
         <h1>Gabriel Amaral Fuchs</h1>
-        <h4>contato: gafuchs@gmail.com</h4>
 
         <a href="https://github.com/GAFuchs">
           <img src={gitHubIcon} style={imgIconStyle}/>
@@ -43,6 +42,8 @@ export default class Home extends React.Component {
         <a href="https://www.facebook.com/gabriel.fuchs.54?ref=br_rs">
           <img src={facebookIcon} style={imgIconStyle}/>
         </a>
+
+        <h4>email: gafuchs@gmail.com</h4>
 
         <Footer />
       </div>
