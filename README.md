@@ -33,6 +33,10 @@ $ npm run dev
 
 Then connect to your `http://localhost:8080` port in the browser, and that's it!
 
+### Host
+
+The website is hosted by [Keroku].
+
    [gafuchs]: <https://github.com/GAFuchs>
    [git-url]: <https://github.com/GAFuchs/personal-webpage>
    [Atom Editor]: <https://atom.io/>
@@ -41,3 +45,4 @@ Then connect to your `http://localhost:8080` port in the browser, and that's it!
    [React]: <https://facebook.github.io/react/>
    [Webpack]: <https://webpack.github.io/>
    [LearnCode.academy React JS Tutorials]: <https://www.youtube.com/playlist?list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b>
+   [Keroku]: <https://www.heroku.com/>
